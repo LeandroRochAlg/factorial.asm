@@ -32,4 +32,4 @@ factorial:  ;recursive function
         ret 
     
 section .bss
-    fact resq 1 ;working with 64 bits in the hole code to reach greater numbers
+    fact resq 1 ;working with 64 bits in the whole code to reach greater numbers
